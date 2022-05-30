@@ -1,5 +1,1 @@
-- 👋 Hi, We are Night Client
-- 👀 We are interested in building discord bots
-- 🌱 We are currently learning how to make our discord bots stand out
-- 💞️ We are looking to collaborate on making discord bots with other discord members
-- 📫 How to reach me on discord: NightCore#6293
+Hey! Are you here because you are looking for Night Client??? Well you are in the wrong place. The website will be up soon! So make sure to look for it!
